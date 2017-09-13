@@ -8,3 +8,4 @@ Mr. Furocious: As himself
 Kunning Kitty: As herself
 PawPaw: As himself
 Clawz: As herself
+SwipenBite: as himself
